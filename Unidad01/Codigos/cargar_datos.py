@@ -1,4 +1,4 @@
 import pandas as pd
-link_csv = "https://raw.githubusercontent.com/teresahuerta1305-coder/EstadisticaInferencial2026A/refs/heads/main/Unidad01/Problemario/datos_problema_01.csv"
+link_csv = ""
 df = pd.read_csv(link_csv)
 df
