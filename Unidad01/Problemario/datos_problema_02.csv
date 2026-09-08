@@ -1,0 +1,23 @@
+### Problema 2
+William Hawkins, vicepresidente de personal de la International Motors, trabaja en la relación entre el salario de un trabajador y el porcentaje de ausentismo. Hawkins dividió el intervalo de salarios de International en 12 grados o niveles (1 es el menor grado, 12 el más alto) y después muestreó aleatoriamente a un grupo de trabajadores. Determinó el grado de salario de cada trabajador y el número de días que ese empleado había faltado en los últimos 3 años.
+
+| Categoría de salario | 11 | 10 | 8  | 5  | 9  | 7  | 3  |
+|----------------------|----|----|----|----|----|----|----|
+| Ausencias           | 18 | 17 | 29 | 36 | 11 | 28 | 35 |
+
+| Categoría de salario | 11 | 8  | 7  | 2  | 9  | 8  | 3  |
+|----------------------|----|----|----|----|----|----|----|
+| Ausencias           | 14 | 20 | 32 | 39 | 16 | 31 | 40 |
+
+1.   Establesca una variable dependiente ($Y$) y una variable independiente ($X$).
+2.   Realice un diagrama de dispersión para estos datos.
+3. ¿Los datos soportan la suposición de linealidad?
+4. Calcule el coeficiente de correlación e interprete el resultado.
+5. Calcule el coeficiente de determinación e interprete el resultado.
+6. Obtenga la recta de regresión ajustada y grafíquelo sobre el gráfico de dispersión.
+7. Obtenga un intervalo de confianza del 95% para la pendiente de la recta de regresión ajustada ($b_1$)
+8. Calcule los residuales y trace un nuevo gráfico de dispersión. Comente, ¿Parece que se verifican los supuestos?
+9. Realice la prueba de Shapiro para los residuales y comente el resultado.
+10. Realice la prueba de Brausch-Pagan para los residuales y comente el resultado.
+11. Utiliza la recta de regresión para interpolar dos valores y extrapolar uno. Comenta estos resultados.
+12. Realice una tabla ANOVA e interprete el resultado.
