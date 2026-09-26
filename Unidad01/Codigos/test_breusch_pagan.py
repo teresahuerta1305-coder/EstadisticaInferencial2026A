@@ -4,5 +4,5 @@
 # alpha = 0.05
 
 from statsmodels.stats.api import het_breuschpagan
-_, valor_p_bp, _, _ = het_breuschpagan(residuales, x_constante)
+_, valor_p_bp, _, _ = het_breuschpagan(residuos, x_constante)
 print(f'valor_p de Breusch-Pagan: {valor_p_bp: 0.4f}\n')
