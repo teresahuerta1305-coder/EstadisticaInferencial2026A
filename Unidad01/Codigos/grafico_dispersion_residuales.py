@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 
+residuos = modelo.resid
+
 # --- Configuración general del gráfico ---
 plt.figure(
     figsize=(6, 4),   # tamaño de la figura (ancho, alto) en pulgadas
