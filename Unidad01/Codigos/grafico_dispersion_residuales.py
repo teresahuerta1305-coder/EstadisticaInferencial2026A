@@ -8,7 +8,7 @@ plt.figure(
 
 # --- Gráfico de dispersión ---
 plt.scatter(
-    x, residuales,
+    x, residuos,
     marker="o",       # forma
     color='blue',     # color de los puntos
     edgecolor='black',    # borde de los puntos
