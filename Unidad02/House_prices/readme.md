@@ -1,1 +1,1 @@
-
+I am a beginner in data science. also, I tried web scraping for priced houses in Toluca (Mexico) with BeatifulSoup. I hope you can practice your skills with this dataset. I hope received any feedback on this, thank you
